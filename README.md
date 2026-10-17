@@ -1,0 +1,2 @@
+# KALC
+A simple calculator
