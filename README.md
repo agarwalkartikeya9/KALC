@@ -17,14 +17,15 @@ Run the Project
 1. Clone or download this repository.
 2. Open the project root in Android Studio and let Gradle sync.
 3. Run it on an emulator or Android device running Android 7.0 (API 24) or higher.
-To build a debug APK from the project root:
-gradlew.bat assembleDebug
-On macOS or Linux, use:
-./gradlew assembleDebug
-The debug APK is generated at app/build/outputs/apk/debug/app-debug.apk.
-Download the APK
+To build a debug APK from the project root:gradlew.bat assembleDebug
+
+On macOS or Linux, use:./gradlew assembleDebug
+The debug APK is generated at app/build/outputs/apk/debug/app-debug.apk.Download the APK
+
 After publishing a GitHub Release, download the installable APK from this repository’s Releases page.
+
 Acknowledgments
+
 Built as a mini-project during my Netcamp course, with guidance from Santu Purkait Sir. Special thanks to Manas Dwivedi for helping with the logic in selected parts of the code.
 
 
